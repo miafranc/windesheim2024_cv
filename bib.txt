@@ -1,0 +1,26 @@
+Books on ML/DL/CV:
+------------------
+Andriy Burkov. The Hundred-Page Machine Learning Book
+	https://themlbook.com/
+
+Ian Goodfellow, Yoshua Bengio, Aaron Courville. Deep Learning. MIT Press, 2016.
+	https://www.deeplearningbook.org/
+
+Szeliski, Richard. Computer vision: algorithms and applications. Springer Nature, 2022.
+	https://szeliski.org/Book/
+
+Papers:
+-------
+Gilpin, Leilani H., et al. "Explaining explanations: An overview of interpretability of machine learning." 2018 IEEE 5th International Conference on data science and advanced analytics (DSAA). IEEE, 2018.
+
+Chen, Chaofan, et al. "This looks like that: deep learning for interpretable image recognition." Advances in Neural Information Processing Systems 32 (2019).
+
+Brendel, Wieland, and Matthias Bethge. "Approximating cnns with bag-of-local-features models works surprisingly well on imagenet." arXiv preprint arXiv:1904.00760 (2019).
+
+Nauta, Meike, et al. "Pip-net: Patch-based intuitive prototypes for interpretable image classification." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.
+
+Hesse, Robin, Simone Schaub-Meyer, and Stefan Roth. "FunnyBirds: A synthetic vision dataset for a part-based analysis of explainable AI methods." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.
+
+Ribeiro, Marco Tulio, Sameer Singh, and Carlos Guestrin. "" Why should i trust you?" Explaining the predictions of any classifier." Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. 2016.
+
+Selvaraju, Ramprasaath R., et al. "Grad-cam: Visual explanations from deep networks via gradient-based localization." Proceedings of the IEEE International Conference on Computer Vision. 2017.
